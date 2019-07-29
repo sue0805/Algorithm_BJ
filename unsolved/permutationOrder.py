@@ -8,4 +8,3 @@ else:
     numArr = [num for num in nums[1:]]
 
 print(numArr)
-sfgsd
