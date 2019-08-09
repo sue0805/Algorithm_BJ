@@ -1,9 +1,7 @@
 import sys
 from operator import itemgetter
 
-N, K = sys.stdin.readline().split()
-N = int(N)
-K = int(K)
+N, K = map(int, sys.stdin.readline().split())
 
 country = list()
 
@@ -21,12 +19,10 @@ for i in country:
         if i[1] == tmp[1] and i[2] == tmp[2] and i[3] == tmp[3]:
             same += 1
         else:
-            if same > 1:
-                grade += same
-                same = 1
-            else:
-                grade += 1
+            grade = grade + same if same > 1 else grade + 1
+            same = 1 if same > 1 else same
     if i[0] == K:
-        print(grade)
         break
     tmp = i
+
+print(grade)
