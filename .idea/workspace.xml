@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="913e64f9-07b5-470f-a6c8-3b108f73edef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bulbAndSwitch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eventPlanning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iHateUTurn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jumpsOfRabit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myHouseHasALibrary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/overtaking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planetaryExploration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/realMessage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanggeunsRobot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/backToTheRural.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/watchingCrossword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tournament.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/olympic.py" beforeDir="false" afterPath="$PROJECT_DIR$/olympic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pascal.py" beforeDir="false" afterPath="$PROJECT_DIR$/pascal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rollingDice.py" beforeDir="false" afterPath="$PROJECT_DIR$/rollingDice.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.backToTheRural (1)">
+  <component name="RunManager" selected="Python.tournament">
     <configuration name="backToTheRural (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_BJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="backToTheRural" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="rollingDice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_BJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,29 +93,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\SUE\PycharmProjects\Algorithm_BJ\unsolved\backToTheRural.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="realMessage" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm_BJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/realMessage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rollingDice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,13 +146,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tournament" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm_BJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tournament.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tournament" />
+        <item itemvalue="Python.rollingDice" />
         <item itemvalue="Python.backToTheRural (1)" />
         <item itemvalue="Python.sleepy" />
         <item itemvalue="Python.sanggeunsRobot" />
-        <item itemvalue="Python.realMessage" />
-        <item itemvalue="Python.backToTheRural" />
       </list>
     </recent_temporary>
   </component>
@@ -209,6 +198,7 @@
       <workItem from="1564670402834" duration="8708000" />
       <workItem from="1565066347997" duration="29219000" />
       <workItem from="1565146805811" duration="12613000" />
+      <workItem from="1565337987276" duration="3533000" />
     </task>
     <servers />
   </component>
@@ -258,6 +248,7 @@
     <SUITE FILE_PATH="coverage/Algorithm_BJ$calcMyGrade.coverage" NAME="calcMyGrade Coverage Results" MODIFIED="1564164893667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$LCDTest.coverage" NAME="LCDTest Coverage Results" MODIFIED="1564502762277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$christmasParty.coverage" NAME="christmasParty Coverage Results" MODIFIED="1564425794311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$tournament.coverage" NAME="tournament Coverage Results" MODIFIED="1565340908278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1564336583032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SWExpertAcademy" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$soda.coverage" NAME="soda Coverage Results" MODIFIED="1564210320597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$contest.coverage" NAME="contest Coverage Results" MODIFIED="1564210326771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -284,6 +275,7 @@
     <SUITE FILE_PATH="coverage/Algorithm_BJ$sleepy.coverage" NAME="sleepy Coverage Results" MODIFIED="1565234242197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$superMario.coverage" NAME="superMario Coverage Results" MODIFIED="1564166406984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$myHouseHasALibrary.coverage" NAME="myHouseHasALibrary Coverage Results" MODIFIED="1564587328391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$rollingDice.coverage" NAME="rollingDice Coverage Results" MODIFIED="1565339162024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$angryChangyeong.coverage" NAME="angryChangyeong Coverage Results" MODIFIED="1564166752153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$permutationOrder__1_.coverage" NAME="permutationOrder (1) Coverage Results" MODIFIED="1564413747742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unsolved" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$addingReversedNumber.coverage" NAME="addingReversedNumber Coverage Results" MODIFIED="1564428070638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
