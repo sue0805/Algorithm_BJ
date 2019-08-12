@@ -16,3 +16,13 @@ for p in pieces:
             break
 print(knife)
 
+import math
+
+sausage, critic = N, M
+oneSausageCnt = 0
+devideSausage = 0
+devideSausage = sausage - critic if sausage >= critic else sausage
+if sausage != critic:
+    oneSausageCnt = math.ceil(critic / devideSausage)
+print(oneSausageCnt * devideSausage)
+
