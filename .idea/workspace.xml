@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="913e64f9-07b5-470f-a6c8-3b108f73edef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/candidateRecommendation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expansionOfFibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numberJoin2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roundMath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAKAO_BLIND/apeach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAKAO_BLIND/apeach2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dobri.dummy.in.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dobri.dummy.in.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dobri.in.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dobri.in.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funghi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goodNumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodCritics.py" beforeDir="false" afterPath="$PROJECT_DIR$/foodCritics.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/KAKAO_BLIND" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -43,6 +46,9 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SUE\PycharmProjects\Algorithm_BJ\KAKAO_BLIND" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\SUE\PycharmProjects\Algorithm_BJ" />
       <recent name="C:\Users\SUE\PycharmProjects\Algorithm_BJ\unsolved" />
@@ -60,7 +66,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.candidateRecommendation">
+  <component name="RunManager" selected="Python.apeach2">
+    <configuration name="apeach" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm_BJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KAKAO_BLIND" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KAKAO_BLIND/apeach.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="apeach2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm_BJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KAKAO_BLIND" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KAKAO_BLIND/apeach2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="candidateRecommendation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_BJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="expansionOfFibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="funghi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_BJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +146,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/expansionOfFibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funghi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="foodCritics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="goodNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_BJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,51 +168,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/foodCritics.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="numberJoin2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm_BJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numberJoin2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="roundMath" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm_BJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/roundMath.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/goodNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.apeach2" />
+        <item itemvalue="Python.apeach" />
+        <item itemvalue="Python.goodNumber" />
+        <item itemvalue="Python.funghi" />
         <item itemvalue="Python.candidateRecommendation" />
-        <item itemvalue="Python.numberJoin2" />
-        <item itemvalue="Python.expansionOfFibonacci" />
-        <item itemvalue="Python.roundMath" />
-        <item itemvalue="Python.foodCritics" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +209,11 @@
       <workItem from="1565146805811" duration="12613000" />
       <workItem from="1565337987276" duration="3533000" />
       <workItem from="1565408723406" duration="5825000" />
-      <workItem from="1565596605053" duration="8056000" />
+      <workItem from="1565596605053" duration="14088000" />
+      <workItem from="1567404680290" duration="12757000" />
+      <workItem from="1567509383646" duration="4885000" />
+      <workItem from="1567566724347" duration="17825000" />
+      <workItem from="1567590208582" duration="4760000" />
     </task>
     <servers />
   </component>
@@ -241,6 +251,7 @@
     <SUITE FILE_PATH="coverage/Algorithm_BJ$wedding.coverage" NAME="wedding Coverage Results" MODIFIED="1564209973775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$POT.coverage" NAME="POT Coverage Results" MODIFIED="1564426236815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$watchingCrossword.coverage" NAME="watchingCrossword Coverage Results" MODIFIED="1564592956780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$apeach2.coverage" NAME="apeach2 Coverage Results" MODIFIED="1567594372758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KAKAO_BLIND" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$microbeIsolation.coverage" NAME="microbeIsolation Coverage Results" MODIFIED="1564337046265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SWExpertAcademy" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$magicianLeeMinHyeok.coverage" NAME="magicianLeeMinHyeok Coverage Results" MODIFIED="1564420618552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$page1.coverage" NAME="page1 Coverage Results" MODIFIED="1564509732378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -263,6 +274,7 @@
     <SUITE FILE_PATH="coverage/Algorithm_BJ$workingTime.coverage" NAME="workingTime Coverage Results" MODIFIED="1564416487849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$olympic.coverage" NAME="olympic Coverage Results" MODIFIED="1564550224931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$STROJOPIS.coverage" NAME="STROJOPIS Coverage Results" MODIFIED="1564427045415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$apeach.coverage" NAME="apeach Coverage Results" MODIFIED="1567568000024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KAKAO_BLIND" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$testScore.coverage" NAME="testScore Coverage Results" MODIFIED="1564165837545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$pascal.coverage" NAME="pascal Coverage Results" MODIFIED="1564544608895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$planetaryExploration.coverage" NAME="planetaryExploration Coverage Results" MODIFIED="1564556643411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -276,6 +288,7 @@
     <SUITE FILE_PATH="coverage/Algorithm_BJ$cupHolder.coverage" NAME="cupHolder Coverage Results" MODIFIED="1564422866967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$selectCondo.coverage" NAME="selectCondo Coverage Results" MODIFIED="1564491675460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$miniFantasyWar.coverage" NAME="miniFantasyWar Coverage Results" MODIFIED="1564163454167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$funghi.coverage" NAME="funghi Coverage Results" MODIFIED="1565615284859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$sanggeunsRobot.coverage" NAME="sanggeunsRobot Coverage Results" MODIFIED="1565150524969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$numberJoin2.coverage" NAME="numberJoin2 Coverage Results" MODIFIED="1565599166226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$realMessage.coverage" NAME="realMessage Coverage Results" MODIFIED="1565093690508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -292,6 +305,7 @@
     <SUITE FILE_PATH="coverage/Algorithm_BJ$permutationOrder.coverage" NAME="permutationOrder Coverage Results" MODIFIED="1564214007635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$eventPlanning.coverage" NAME="eventPlanning Coverage Results" MODIFIED="1564588697908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$firecrackerShow.coverage" NAME="firecrackerShow Coverage Results" MODIFIED="1564415986690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$goodNumber.coverage" NAME="goodNumber Coverage Results" MODIFIED="1567404719399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$peterpanFrames.coverage" NAME="peterpanFrames Coverage Results" MODIFIED="1564509551829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
