@@ -1,9 +1,9 @@
 from collections import defaultdict as dd
+import sys
+input = sys.stdin.readline
 
-f = open('dobri.in.10 ', 'r')
-
-n = int(f.readline())
-arr = list(map(int, f.readline().split()))
+n = int(input().rstrip())
+arr = list(map(int, input().split()))
 sums = [dd(int) for _ in range(n)]
 result = 0
 

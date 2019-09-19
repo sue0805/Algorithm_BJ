@@ -21,7 +21,7 @@ def action(token, commands):
 
 
 def simulate():
-    token, time, elevators, is_end = start(1, 4).values()
+    token, time, elevators, is_end = start(2, 4).values()
     MAXPASS, MAXFLOOR, TOTALCALL = 8, 25, 500
     is_end = False
     elv_dir = ["DOWN"] * 4
@@ -37,7 +37,7 @@ def simulate():
         for ev in elevators:
             id, floor, passengers, status = ev.values()
             commands['commands'][id]['elevator_id'] = id
-            if (id == 3) and first:
+            if (id == 0) and first:
                 if floor < MAXFLOOR:
                     commands['commands'][id]['command'] = "UP"
                     continue
@@ -236,7 +236,7 @@ def simulate():
                 else:
                     commands['commands'][id]['command'] = elv_dir[id]
             else:
-                if id == 3:
+                if id == 0:
                     first = True
                 commands['commands'][ev[0]]['command'] = "STOP"
 
