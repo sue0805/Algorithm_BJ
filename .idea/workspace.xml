@@ -61,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ChessBoardRepainting">
+  <component name="RunManager" selected="Python.ramp">
     <configuration name="ChessBoardRepainting" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_BJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="candidateRecommendation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ball" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_BJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,8 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/candidateRecommendation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ball.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="f7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="escape" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_BJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/f7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/escape.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rotatingQueue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="gearwheel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_BJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rotatingQueue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gearwheel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="snake" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ramp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_BJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,7 +158,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/snake.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ramp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ramp" />
+        <item itemvalue="Python.escape" />
+        <item itemvalue="Python.ball" />
+        <item itemvalue="Python.gearwheel" />
         <item itemvalue="Python.ChessBoardRepainting" />
-        <item itemvalue="Python.snake" />
-        <item itemvalue="Python.rotatingQueue" />
-        <item itemvalue="Python.f7" />
-        <item itemvalue="Python.candidateRecommendation" />
       </list>
     </recent_temporary>
   </component>
