@@ -2,12 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="913e64f9-07b5-470f-a6c8-3b108f73edef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/candidateRecommendation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expansionOfFibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numberJoin2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roundMath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KevinBacons6StepRule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWExpertAcademy/hikingTrail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWExpertAcademy/protectFilm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biggest47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catchThatCow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparePicture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countArea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfsAndBfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dragonCurve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/escapeBall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/escapeMaze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/findWays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ilovecroatia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyLogger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboardmistake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/king.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knightTour.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lotto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microdustBye.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveUnits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numberOfRelations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numberingApartment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organicCabbage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parkingTrucks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/permutationChanges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puyopuyo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ramp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redGreenColorBlind.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robotSimulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rollcake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/safe_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snail2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stringDiff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teachingWord.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomato2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomatos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/ratar.in.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youngsikAndFriends.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodCritics.py" beforeDir="false" afterPath="$PROJECT_DIR$/foodCritics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KAKAO_BLIND/apeach2.py" beforeDir="false" afterPath="$PROJECT_DIR$/KAKAO_BLIND/apeach2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dobri.dummy.in.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dobri.dummy.in.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dobri.in.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dobri.in.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goodNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/unsolved/goodNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unsolved/backToTheRural.py" beforeDir="false" afterPath="$PROJECT_DIR$/unsolved/backToTheRural.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +80,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/KAKAO_BLIND" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,9 +91,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\pc\Documents\GitHub\Algorithm_BJ_Python" />
-      <recent name="C:\Users\SUE\PycharmProjects\Algorithm_BJ" />
       <recent name="C:\Users\SUE\PycharmProjects\Algorithm_BJ\unsolved" />
+      <recent name="C:\Users\SUE\PycharmProjects\Algorithm_BJ" />
+      <recent name="C:\Users\pc\Documents\GitHub\Algorithm_BJ_Python" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SUE\PycharmProjects\Algorithm_BJ\KAKAO_BLIND" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -74,7 +124,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChessBoardRepainting.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KevinBacons6StepRule.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +250,20 @@
       <workItem from="1565146805811" duration="12613000" />
       <workItem from="1565337987276" duration="3533000" />
       <workItem from="1565408723406" duration="5825000" />
-      <workItem from="1565596605053" duration="8056000" />
+      <workItem from="1565596605053" duration="14088000" />
+      <workItem from="1567404680290" duration="12757000" />
+      <workItem from="1567509383646" duration="4885000" />
+      <workItem from="1567566724347" duration="17825000" />
+      <workItem from="1567590208582" duration="16377000" />
+      <workItem from="1567615907069" duration="5067000" />
+      <workItem from="1567651639469" duration="44302000" />
+      <workItem from="1567756652752" duration="13971000" />
+      <workItem from="1568110573413" duration="949000" />
+      <workItem from="1568272942216" duration="62000" />
+      <workItem from="1568613926976" duration="13610000" />
+      <workItem from="1568695958512" duration="661000" />
+      <workItem from="1568710235027" duration="685000" />
+      <workItem from="1568878070992" duration="19755000" />
     </task>
     <servers />
   </component>
@@ -225,26 +289,84 @@
     </ignored-roots>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$KevinBacons6StepRule.coverage" NAME="KevinBacons6StepRule Coverage Results" MODIFIED="1568913474029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$iceberg.coverage" NAME="iceberg Coverage Results" MODIFIED="1568915573412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$homeSecuritySystem.coverage" NAME="homeSecuritySystem Coverage Results" MODIFIED="1564253062797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SWExpertAcademy" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$catchThatCow.coverage" NAME="catchThatCow Coverage Results" MODIFIED="1568624641080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$ants.coverage" NAME="ants Coverage Results" MODIFIED="1568619541295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$weatherCastors.coverage" NAME="weatherCastors Coverage Results" MODIFIED="1564424511392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$numberJoin1.coverage" NAME="numberJoin1 Coverage Results" MODIFIED="1564156446270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$POT.coverage" NAME="POT Coverage Results" MODIFIED="1564426236815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$watchingCrossword.coverage" NAME="watchingCrossword Coverage Results" MODIFIED="1564592956780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$biggest47.coverage" NAME="biggest47 Coverage Results" MODIFIED="1567671295637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$microbeIsolation.coverage" NAME="microbeIsolation Coverage Results" MODIFIED="1564337046265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SWExpertAcademy" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$magicianLeeMinHyeok.coverage" NAME="magicianLeeMinHyeok Coverage Results" MODIFIED="1564420618552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$excercise.coverage" NAME="excercise Coverage Results" MODIFIED="1567689690903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$foodCritics.coverage" NAME="foodCritics Coverage Results" MODIFIED="1565409438840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$safe_area.coverage" NAME="safe_area Coverage Results" MODIFIED="1568885338358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$rollcake.coverage" NAME="rollcake Coverage Results" MODIFIED="1567690101208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$tile.coverage" NAME="tile Coverage Results" MODIFIED="1564467991561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$backToTheRural__1_.coverage" NAME="backToTheRural (1) Coverage Results" MODIFIED="1565235775784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unsolved" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$card2.coverage" NAME="card2 Coverage Results" MODIFIED="1567617304056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$string.coverage" NAME="string Coverage Results" MODIFIED="1567616131113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$protectFilm.coverage" NAME="protectFilm Coverage Results" MODIFIED="1567778145697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SWExpertAcademy" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$comparePicture.coverage" NAME="comparePicture Coverage Results" MODIFIED="1568617563383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$lotto.coverage" NAME="lotto Coverage Results" MODIFIED="1568882260856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$vote.coverage" NAME="vote Coverage Results" MODIFIED="1564468672996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$lab.coverage" NAME="lab Coverage Results" MODIFIED="1568881790046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$workingTime.coverage" NAME="workingTime Coverage Results" MODIFIED="1564416487849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$olympic.coverage" NAME="olympic Coverage Results" MODIFIED="1564550224931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$planetaryExploration.coverage" NAME="planetaryExploration Coverage Results" MODIFIED="1564556643411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$escapeBall.coverage" NAME="escapeBall Coverage Results" MODIFIED="1567704216169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$noise.coverage" NAME="noise Coverage Results" MODIFIED="1564164266414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$iHateUTurn.coverage" NAME="iHateUTurn Coverage Results" MODIFIED="1565067343732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$runningAnErrand.coverage" NAME="runningAnErrand Coverage Results" MODIFIED="1564165322521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$overtaking.coverage" NAME="overtaking Coverage Results" MODIFIED="1564593192051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$keyboardmistake.coverage" NAME="keyboardmistake Coverage Results" MODIFIED="1568616626111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$basketballPlay.coverage" NAME="basketballPlay Coverage Results" MODIFIED="1564139245408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$dfsAndBfs.coverage" NAME="dfsAndBfs Coverage Results" MODIFIED="1568620518671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$calculateScore.coverage" NAME="calculateScore Coverage Results" MODIFIED="1564136875418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$card1.coverage" NAME="card1 Coverage Results" MODIFIED="1567617535017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$king.coverage" NAME="king Coverage Results" MODIFIED="1567682005448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$selectCondo.coverage" NAME="selectCondo Coverage Results" MODIFIED="1564491675460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$sanggeunsRobot.coverage" NAME="sanggeunsRobot Coverage Results" MODIFIED="1565150524969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$realMessage.coverage" NAME="realMessage Coverage Results" MODIFIED="1565093690508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$teachingWord.coverage" NAME="teachingWord Coverage Results" MODIFIED="1567680627937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$desertCafe.coverage" NAME="desertCafe Coverage Results" MODIFIED="1564230339482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SWExpertAcademy" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$sleepy.coverage" NAME="sleepy Coverage Results" MODIFIED="1565234242197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$redGreenColorBlind.coverage" NAME="redGreenColorBlind Coverage Results" MODIFIED="1568910585388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$tomatos.coverage" NAME="tomatos Coverage Results" MODIFIED="1568626299913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$numberOfRelations.coverage" NAME="numberOfRelations Coverage Results" MODIFIED="1568879729688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$superMario.coverage" NAME="superMario Coverage Results" MODIFIED="1564166406984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$permutationChanges.coverage" NAME="permutationChanges Coverage Results" MODIFIED="1567671834863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$youngsikAndFriends.coverage" NAME="youngsikAndFriends Coverage Results" MODIFIED="1567684950887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$stringDiff.coverage" NAME="stringDiff Coverage Results" MODIFIED="1567616818672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$bulbAndSwitch.coverage" NAME="bulbAndSwitch Coverage Results" MODIFIED="1565073997161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$permutationOrder.coverage" NAME="permutationOrder Coverage Results" MODIFIED="1564214007635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$goodNumber.coverage" NAME="goodNumber Coverage Results" MODIFIED="1567599662099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$letters.coverage" NAME="letters Coverage Results" MODIFIED="1568909274145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$peterpanFrames.coverage" NAME="peterpanFrames Coverage Results" MODIFIED="1564509551829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$ramp.coverage" NAME="ramp Coverage Results" MODIFIED="1567606216221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$commonDenominator.coverage" NAME="commonDenominator Coverage Results" MODIFIED="1564212839942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$organicCabbage.coverage" NAME="organicCabbage Coverage Results" MODIFIED="1568619664878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$rightTriangle.coverage" NAME="rightTriangle Coverage Results" MODIFIED="1564166139105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$enteranceAndExitOfTunnel.coverage" NAME="enteranceAndExitOfTunnel Coverage Results" MODIFIED="1564492240131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$globalWarming.coverage" NAME="globalWarming Coverage Results" MODIFIED="1564471300766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$judgingTroubles.coverage" NAME="judgingTroubles Coverage Results" MODIFIED="1564507189312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$homeSecuritySystem.coverage" NAME="homeSecuritySystem Coverage Results" MODIFIED="1564253062797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SWExpertAcademy" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$weatherCastors.coverage" NAME="weatherCastors Coverage Results" MODIFIED="1564424511392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$expansionOfFibonacci.coverage" NAME="expansionOfFibonacci Coverage Results" MODIFIED="1565414694711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$numberJoin1.coverage" NAME="numberJoin1 Coverage Results" MODIFIED="1564156446270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$wedding.coverage" NAME="wedding Coverage Results" MODIFIED="1564209973775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$POT.coverage" NAME="POT Coverage Results" MODIFIED="1564426236815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$watchingCrossword.coverage" NAME="watchingCrossword Coverage Results" MODIFIED="1564592956780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$microbeIsolation.coverage" NAME="microbeIsolation Coverage Results" MODIFIED="1564337046265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SWExpertAcademy" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$magicianLeeMinHyeok.coverage" NAME="magicianLeeMinHyeok Coverage Results" MODIFIED="1564420618552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$moveUnits.coverage" NAME="moveUnits Coverage Results" MODIFIED="1567773345985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$snail2.coverage" NAME="snail2 Coverage Results" MODIFIED="1568616746658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$tomato2.coverage" NAME="tomato2 Coverage Results" MODIFIED="1568905157325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$apeach2.coverage" NAME="apeach2 Coverage Results" MODIFIED="1568110923041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KAKAO_BLIND" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$findWays.coverage" NAME="findWays Coverage Results" MODIFIED="1568879141922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$page1.coverage" NAME="page1 Coverage Results" MODIFIED="1564509732378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$backToTheRural.coverage" NAME="backToTheRural Coverage Results" MODIFIED="1565092561620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$foodCritics.coverage" NAME="foodCritics Coverage Results" MODIFIED="1565409438840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$tile.coverage" NAME="tile Coverage Results" MODIFIED="1564467991561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$backToTheRural__1_.coverage" NAME="backToTheRural (1) Coverage Results" MODIFIED="1565235775784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unsolved" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$ilovecroatia.coverage" NAME="ilovecroatia Coverage Results" MODIFIED="1567673283805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$backToTheRural.coverage" NAME="backToTheRural Coverage Results" MODIFIED="1567680777102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unsolved" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$parkingTrucks.coverage" NAME="parkingTrucks Coverage Results" MODIFIED="1567670022041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$microdustBye.coverage" NAME="microdustBye Coverage Results" MODIFIED="1567710124791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$sumOfNums.coverage" NAME="sumOfNums Coverage Results" MODIFIED="1564465327067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$escapeMaze.coverage" NAME="escapeMaze Coverage Results" MODIFIED="1568621135005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$vacationHomework.coverage" NAME="vacationHomework Coverage Results" MODIFIED="1564137342161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$roundMath.coverage" NAME="roundMath Coverage Results" MODIFIED="1565410175047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$waterCosts.coverage" NAME="waterCosts Coverage Results" MODIFIED="1564158413469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -255,39 +377,31 @@
     <SUITE FILE_PATH="coverage/Algorithm_BJ$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1564336583032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SWExpertAcademy" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$soda.coverage" NAME="soda Coverage Results" MODIFIED="1564210320597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$contest.coverage" NAME="contest Coverage Results" MODIFIED="1564210326771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$vote.coverage" NAME="vote Coverage Results" MODIFIED="1564468672996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$workingTime.coverage" NAME="workingTime Coverage Results" MODIFIED="1564416487849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$olympic.coverage" NAME="olympic Coverage Results" MODIFIED="1564550224931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$keyLogger.coverage" NAME="keyLogger Coverage Results" MODIFIED="1567653966398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$puyopuyo.coverage" NAME="puyopuyo Coverage Results" MODIFIED="1567665409595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$STROJOPIS.coverage" NAME="STROJOPIS Coverage Results" MODIFIED="1564427045415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$apeach.coverage" NAME="apeach Coverage Results" MODIFIED="1567568000024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KAKAO_BLIND" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$testScore.coverage" NAME="testScore Coverage Results" MODIFIED="1564165837545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$pascal.coverage" NAME="pascal Coverage Results" MODIFIED="1564544608895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$planetaryExploration.coverage" NAME="planetaryExploration Coverage Results" MODIFIED="1564556643411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$noise.coverage" NAME="noise Coverage Results" MODIFIED="1564164266414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$iHateUTurn.coverage" NAME="iHateUTurn Coverage Results" MODIFIED="1565067343732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$runningAnErrand.coverage" NAME="runningAnErrand Coverage Results" MODIFIED="1564165322521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$overtaking.coverage" NAME="overtaking Coverage Results" MODIFIED="1564593192051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$sticker.coverage" NAME="sticker Coverage Results" MODIFIED="1567756823194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$KLOPKA.coverage" NAME="KLOPKA Coverage Results" MODIFIED="1564428317588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$basketballPlay.coverage" NAME="basketballPlay Coverage Results" MODIFIED="1564139245408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$calculateScore.coverage" NAME="calculateScore Coverage Results" MODIFIED="1564136875418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$hikingTrail.coverage" NAME="hikingTrail Coverage Results" MODIFIED="1567790732672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SWExpertAcademy" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$cupHolder.coverage" NAME="cupHolder Coverage Results" MODIFIED="1564422866967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$selectCondo.coverage" NAME="selectCondo Coverage Results" MODIFIED="1564491675460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$miniFantasyWar.coverage" NAME="miniFantasyWar Coverage Results" MODIFIED="1564163454167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$sanggeunsRobot.coverage" NAME="sanggeunsRobot Coverage Results" MODIFIED="1565150524969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$funghi.coverage" NAME="funghi Coverage Results" MODIFIED="1565615284859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$numberJoin2.coverage" NAME="numberJoin2 Coverage Results" MODIFIED="1565599166226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$realMessage.coverage" NAME="realMessage Coverage Results" MODIFIED="1565093690508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$desertCafe.coverage" NAME="desertCafe Coverage Results" MODIFIED="1564230339482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SWExpertAcademy" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$candidateRecommendation.coverage" NAME="candidateRecommendation Coverage Results" MODIFIED="1565604127122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$sleepy.coverage" NAME="sleepy Coverage Results" MODIFIED="1565234242197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$superMario.coverage" NAME="superMario Coverage Results" MODIFIED="1564166406984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$dragonCurve.coverage" NAME="dragonCurve Coverage Results" MODIFIED="1567615074624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$numberingApartment.coverage" NAME="numberingApartment Coverage Results" MODIFIED="1568624486518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$myHouseHasALibrary.coverage" NAME="myHouseHasALibrary Coverage Results" MODIFIED="1564587328391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$knightTour.coverage" NAME="knightTour Coverage Results" MODIFIED="1568906633655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$rollingDice.coverage" NAME="rollingDice Coverage Results" MODIFIED="1565339162024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$angryChangyeong.coverage" NAME="angryChangyeong Coverage Results" MODIFIED="1564166752153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$permutationOrder__1_.coverage" NAME="permutationOrder (1) Coverage Results" MODIFIED="1564413747742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unsolved" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$addingReversedNumber.coverage" NAME="addingReversedNumber Coverage Results" MODIFIED="1564428070638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$bulbAndSwitch.coverage" NAME="bulbAndSwitch Coverage Results" MODIFIED="1565073997161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$permutationOrder.coverage" NAME="permutationOrder Coverage Results" MODIFIED="1564214007635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$countArea.coverage" NAME="countArea Coverage Results" MODIFIED="1568883907013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_BJ$robotSimulation.coverage" NAME="robotSimulation Coverage Results" MODIFIED="1567686545750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$eventPlanning.coverage" NAME="eventPlanning Coverage Results" MODIFIED="1564588697908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_BJ$firecrackerShow.coverage" NAME="firecrackerShow Coverage Results" MODIFIED="1564415986690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm_BJ$peterpanFrames.coverage" NAME="peterpanFrames Coverage Results" MODIFIED="1564509551829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

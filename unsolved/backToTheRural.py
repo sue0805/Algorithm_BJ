@@ -1,4 +1,8 @@
-N = int(input())
+import sys
+
+f = open('ratar.in.10', 'r')
+
+N = int(f.readline())
 land = [[0] * (N + 1) for i in range(N + 1)]
 fx = [-1, 1, -1, 1]
 fy = [1, 1, -1, -1]
@@ -33,7 +37,7 @@ def pointCount(y, x):
 
 
 for i in range(1, N + 1):
-    land[i] = [0] + list(map(int, input().split()))
+    land[i] = [0] + list(map(int, f.readline().split()))
 
 allCount = 0
 for i in range(2, N + 1):
